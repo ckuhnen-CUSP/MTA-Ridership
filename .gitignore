@@ -1,2 +1,3 @@
 # Ignore data folder (far too large)
 HourlyData/
+.venv/
